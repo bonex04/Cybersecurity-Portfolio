@@ -1,4 +1,4 @@
-# 👨‍💻 BONEX04 | Cybersecurity Portfolio
+# 👨‍💻 BONEX04
 
 Welcome to my cybersecurity portfolio!
 
